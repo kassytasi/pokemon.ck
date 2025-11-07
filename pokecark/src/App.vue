@@ -271,7 +271,7 @@ body::-webkit-scrollbar {
   width: 280px;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
   color: #023047;
-  background: #f8f9fa;
+  background: #e4e4ff;
 }
 
 /* ✨ Imagen animada */
@@ -291,7 +291,7 @@ body::-webkit-scrollbar {
 
 /* TYPES & WEAKNESSES */
 .type, .weak {
-  color: white;
+  color: rgb(27, 26, 26);
   padding: 6px 12px;
   margin: 4px;
   border-radius: 10px;
@@ -304,7 +304,7 @@ body::-webkit-scrollbar {
 .stat { text-align: left; margin-bottom: 10px; }
 
 .progress-bar {
-  background: #e9ecef;
+  background: #a7bacc;
   border-radius: 10px;
   height: 8px;
 }
